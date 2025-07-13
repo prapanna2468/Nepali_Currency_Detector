@@ -13,7 +13,7 @@ The Streamlit app (app.py) provides an easy-to-use interface that runs locally o
 
 🗄️ Dataset
 Nepali Currency Dataset:
-Kaggle Link → Click Here
+Kaggle Link → https://www.kaggle.com/datasets/prapannadhungel/nepali-currency-dataset
 
 Classes:
 
