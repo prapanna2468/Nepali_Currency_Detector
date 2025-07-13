@@ -37,13 +37,6 @@ Nepali-Currency-Detector/
 └── requirements.txt         # Python dependencies (recommended to create)
 🛠️ Installation Guide
 Step 1: Clone the Repository
-Open Command Prompt or Terminal:
-
-bash
-Copy
-Edit
-git clone https://github.com/yourusername/your-repo-name.git
-cd your-repo-name
 Step 2: Install Python Packages
 Create a virtual environment (optional but recommended):
 
